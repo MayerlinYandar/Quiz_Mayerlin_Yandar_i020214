@@ -198,14 +198,14 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:id="@+id/m_l"
+                            android:id="@+id/am"
                             android:text="Amazon"/>
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="15-03-2018"
-                            android:layout_below="@id/m_l"/>
+                            android:layout_below="@id/am"/>
 
                     </RelativeLayout>
                     <TextView
@@ -231,14 +231,14 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:id="@+id/m_l"
+                            android:id="@+id/ev"
                             android:text="EverNote"/>
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="15-03-2018"
-                            android:layout_below="@id/m_l"/>
+                            android:layout_below="@id/ev"/>
 
                     </RelativeLayout>
                     <TextView
@@ -264,14 +264,14 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:id="@+id/m_l"
+                            android:id="@+id/gp"
                             android:text="GooglePlay"/>
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="15-03-2018"
-                            android:layout_below="@id/m_l"/>
+                            android:layout_below="@id/gp"/>
 
                     </RelativeLayout>
                     <TextView
@@ -299,14 +299,14 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:id="@+id/m_l"
+                            android:id="@+id/ap"
                             android:text="Apple Store"/>
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="15-03-2018"
-                            android:layout_below="@id/m_l"/>
+                            android:layout_below="@id/ap"/>
 
                     </RelativeLayout>
                     <TextView
@@ -331,14 +331,14 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:id="@+id/m_l"
+                            android:id="@+id/nt"
                             android:text="Netflix"/>
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="15-03-2018"
-                            android:layout_below="@id/m_l"/>
+                            android:layout_below="@id/nt"/>
 
                     </RelativeLayout>
                     <TextView
