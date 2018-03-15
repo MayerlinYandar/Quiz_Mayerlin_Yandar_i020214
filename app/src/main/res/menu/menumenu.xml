@@ -5,10 +5,10 @@
         android:id="@+id/nav_home"
         android:checked="true"
         android:icon="@drawable/search"
-        android:title="Inicio" />
+        />
     <item
         android:id="@+id/nav_productos"
         android:icon="@drawable/share"
-        android:title="Productos" />
+        />
 
 </menu>
